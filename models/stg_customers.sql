@@ -1,5 +1,5 @@
 select
-        id as customer_id,
+        id as new_customer_id,
         first_name,
         last_name
 
